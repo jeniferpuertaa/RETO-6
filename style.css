@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.imagen1 {
+    width: 200px;
+    height: 200px;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+
+}
+
+div {
+    width: 800px;
+    display: inline;
+
+}
+
+.p {
+    color: #afb5e69a;
+    font-size: 20px;
+}
+
+.imagenn {
+    margin: 510px;
+    text-align: center;
+    align-content: center;
+
+}
+
+strong a {
+    color: gray;
+    text-decoration: none;
+}
+
+.im {
+    width: 305px;
+    height: 305px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px teal;
+    padding: 10px;
+    border: 1px solid chocolate;
+    text-align: center;
+
+}
+
+.titulos {
+    color: white;
+
+}
+
+
+nav {
+    text-align: center;
+    padding: 30px 50px;
+}
+
+nav>a {
+    color: #afb5e69a;
+    font-weight: 200;
+    text-decoration: none;
+    margin-right: 10px;
+
+}
+
+nav>a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+
+.wave {
+    position: absolute;
+    bottom: 0%;
+    width: 100;
+}
+
+main {
+    color: white;
+}
+
+footer {
+    color: #717bc09a;
+    position: absolute;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    left: 0;
+    width: 100%;
+
+}
+
+/* Karate*/
+
+#header2 {
+    background-color: white;
+    margin: 50px;
+
+}
+
+.navegacion {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic
+}
+
+.navegacion ul {
+    background-color: rgba(187, 97, 81, 0.767);
+    list-style: none;
+    margin: none;
+    padding: 10px;
+
+}
+
+.navegacion ul li {
+    display: inline-block;
+
+}
+
+.navegacion ul li a {
+    color: black;
+    display: block;
+    padding: 10px 40px;
+    text-decoration: none;
+}
+
+.navegacion ul li a:hover {
+    text-decoration: none;
+    
+
+}
+
+.contenedor {
+    margin: 10px;
+    padding: 10px;
+}
+
+.imagp {
+    border-radius: 10px;
+}
+
+.parraf {
+    margin: 50px;
+    text-align: justify;
+    font-size: 17px;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.iframe {
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.main {
+    color: brown;
+}
+
+.footer {
+    color: black;
+}
